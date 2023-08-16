@@ -1,7 +1,9 @@
-### Hi there 👋
 <div align="center">
 
+
+### Hi there 👋 
 반갑습니다! 주니어 프론트엔드 개발자 주다현입니다. 끊임없이 발전하는 중입니다👐 
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahhh)
 <!--(https://github.com/judahhh/github-readme-stats

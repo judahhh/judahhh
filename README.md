@@ -1,4 +1,6 @@
 ### Hi there 👋
+<div align="center">
+
 반갑습니다! 주니어 프론트엔드 개발자 주다현입니다. 끊임없이 발전하는 중입니다👐 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahhh)
@@ -9,7 +11,7 @@
 
 <!-- Language logo-->
 ### Skills
-<div align="center">
+
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />

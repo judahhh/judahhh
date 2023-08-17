@@ -31,7 +31,7 @@
 <!--<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />-->
 
 ### My Blog
-<a href="https://judahhh.tistory.com/" target="_blank">
+<a href="https://judahhh.tistory.com/" target="_blank" >
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=tistory&link=https://judahhh.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

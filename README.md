@@ -21,7 +21,6 @@
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/stompjs-%23181717.svg?&style=for-the-badge&logo=stompJS&logoColor=white" />
 
 
  ### Etc 
@@ -30,7 +29,7 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-
+<img src="https://img.shields.io/badge/stompjs-%23181717.svg?&style=for-the-badge&logo=stompJS&logoColor=white" />
 
 
 ### Tools

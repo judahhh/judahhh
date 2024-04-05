@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 
-반갑습니다! 주니어 프론트엔드 개발자 주다현입니다. 개발자로서 비즈니스에 기여하고자 끊임없이 발전하고 있습니다!👐 
+반갑습니다! 주니어 프론트엔드 개발자 주다현입니다👐 
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judahhh&hide=stars&show_icons=true&&theme=cobalt)
